@@ -1,2 +1,2 @@
-minimal arm file system. you can chroot. root/root
+minimal arm file system 140Mb. you can chroot. root/root
 
